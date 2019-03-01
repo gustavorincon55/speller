@@ -1,0 +1,2 @@
+
+The speller project is one of the projects it is asigned to complete CS50 harvardx course. On it, I made a program, written in C, that can take a dictionary (however there is a default one so you don't need to add it, but you could), and a text file. The program will print on the console all of the words that are on the text but are not on the dictionary. If used with the default dictionary it will print all misspeled words that exist on the text. 
